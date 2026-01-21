@@ -1,0 +1,5 @@
+{
+  "name": "D&D 5e Combat Support Dashboard",
+  "description": "A comprehensive, dynamic combat tracker for D&D 5e Dungeon Masters, featuring automated initiative sorting, monster imports via Gemini API, and specialized HP management.",
+  "requestFramePermissions": []
+}
